@@ -23,20 +23,21 @@ permalink: /miscellany/courses/
 
 
 <h2>At University of Notre Dame </h2>
-<h3>Electrical Engineering Department 3</h3>
+<h3>Electrical Engineering Department </h3>
 <a href="">MA214</a>: Convex optimization
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA106</a>: Advanced Control Systems
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Statistical Methods in Data Mining \& Prediction
 
 
 <h2>At K.N.Toosi University of Technology </h2>
-<h3>Electrical Engineering Department 3</h3>
+<h3>Electrical Engineering Department </h3>
 <a href="">MA214</a>: System Identification
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA106</a>: Neural Network Controller
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Stochastic processes
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA105</a>: Calculus
 
 <h2>At Shiraz University </h2>
+<h3>Electrical Engineering Department </h3>
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Differential Equations
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA105</a>: Calculus
 
