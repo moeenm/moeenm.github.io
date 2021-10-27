@@ -4,7 +4,7 @@ title: Key Courses Undertaken
 permalink: /miscellany/courses/
 ---
 
-<h2>At &lt;your university name&gt;</h2>
+<h2>At University of Virginia </h2>
 
 <h3>Department 1</h3>
 
