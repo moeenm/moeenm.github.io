@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/profile.jpg" caption="You never forget cold weather after living in South Bend for two years :)" width=300 align="right" %}
 
 Out of box thinker with a demonstrated history of working in both academia and industry.
 
