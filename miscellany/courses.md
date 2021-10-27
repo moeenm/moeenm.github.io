@@ -20,7 +20,7 @@ permalink: /miscellany/courses/
 <h3>Electrical Engineering Department </h3>
 <a href="">MA214</a>: Convex optimization
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA106</a>: Advanced Control Systems
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Statistical Methods in Data Mining \& Prediction
+<b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Statistical Methods in Data Mining and Prediction
 
 
 <h2>At K.N.Toosi University of Technology </h2>
