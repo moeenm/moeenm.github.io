@@ -8,9 +8,9 @@ permalink: /miscellany/courses/
 
 <h3> System and Information Engineering Department</h3>
 
-<a href="">CS335</a>: Arificial Intelligence and Machine Learning <sup>
+<a href="">CS335</a>: Arificial Intelligence and Machine Learning 
 <b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6018</a>: Data Mining
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6582</a>: Reinforcement learning <sup>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6582</a>: Reinforcement learning 
 <b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6001</a>: Introduction to Systems Analysis & Design
 
 
@@ -39,6 +39,4 @@ permalink: /miscellany/courses/
 <a href="http://cs231n.stanford.edu/">CS231n</a>: Convolutional Neural Networks for Visual Recognition
 <b>&nbsp;&middot;&nbsp;</b> <a href="http://cs224d.stanford.edu/">CS224d</a>: Deep Learning for Natural Language Processing
 
-<div align= "right">
-	*<i>pursuing currently</i><br><sup>&dagger;</sup><i>accompanied by a separate lab course</i>
-</div>
+
