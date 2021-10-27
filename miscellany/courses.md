@@ -26,6 +26,12 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Differential Equations
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA105</a>: Calculus
 
+<h2>At University of Notre Dame </h2>
+
+<h2>At K.N.Toosi University of Technology </h2>
+
+<h2>At Shiraz University </h2>
+
 
 <h2>MOOC</h2>
 <a href="http://cs231n.stanford.edu/">CS231n</a>: Convolutional Neural Networks for Visual Recognition
