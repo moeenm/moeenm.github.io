@@ -22,13 +22,13 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="">SI402</a>: Statistical Inference
 <b>&nbsp;&middot;&nbsp;</b> <a href="">SI417</a>: Introduction to Probability Theory
 
+
+<h2>At University of Notre Dame </h2>
 <h3>Department 3</h3>
 <a href="">MA214</a>: Introduction to Numerical Analysis*
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA106</a>: Linear Algebra
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Differential Equations
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA105</a>: Calculus
-
-<h2>At University of Notre Dame </h2>
 
 <h2>At K.N.Toosi University of Technology </h2>
 
