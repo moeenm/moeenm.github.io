@@ -6,14 +6,16 @@ permalink: /miscellany/courses/
 
 <h2>At University of Virginia </h2>
 
-<h3>Department 1</h3>
+<h3> System and Information Engineering Department</h3>
 
-<a href="">CS335</a>: Arificial Intelligence and Machine Learning* <sup>&dagger;</sup>
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS726</a>: Advanced Machine Learning*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS302</a>: Implementation of Programming Languages* <sup>&dagger;</sup>
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS310</a>: Automata Theory*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS663</a>: Fundamentals of Digital Image Processing
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS475</a>: Computer Graphics
+<a href="">CS335</a>: Arificial Intelligence and Machine Learning <sup>&dagger;</sup>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6018</a>: Data Mining
+<b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6582</a>: Reinforcement learning <sup>&dagger;</sup>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6001</a>: Introduction to Systems Analysis & Design
+
+
+<h3>Computer Science Department  </h3>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">CS6501</a>: Computer Graphics
 
 <h3>Department 2</h3>
 <a href="">SI404</a>: Applied Stochastic Processes*
