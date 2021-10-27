@@ -8,9 +8,9 @@ permalink: /miscellany/courses/
 
 <h3> System and Information Engineering Department</h3>
 
-<a href="">CS335</a>: Arificial Intelligence and Machine Learning <sup>&dagger;</sup>
+<a href="">CS335</a>: Arificial Intelligence and Machine Learning <sup>
 <b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6018</a>: Data Mining
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6582</a>: Reinforcement learning <sup>&dagger;</sup>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6582</a>: Reinforcement learning <sup>
 <b>&nbsp;&middot;&nbsp;</b> <a href="">SYS6001</a>: Introduction to Systems Analysis & Design
 
 
