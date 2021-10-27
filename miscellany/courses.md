@@ -16,12 +16,6 @@ permalink: /miscellany/courses/
 <h3>Computer Science Department  </h3>
 <b>&nbsp;&middot;&nbsp;</b> <a href="">CS6501</a>: Natural language processing
 
-<h3>Department 2</h3>
-<a href="">SI404</a>: Applied Stochastic Processes
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SI402</a>: Statistical Inference
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SI417</a>: Introduction to Probability Theory
-
-
 <h2>At University of Notre Dame </h2>
 <h3>Electrical Engineering Department </h3>
 <a href="">MA214</a>: Convex optimization
@@ -40,6 +34,7 @@ permalink: /miscellany/courses/
 <h3>Electrical Engineering Department </h3>
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Differential Equations
 <b>&nbsp;&middot;&nbsp;</b> <a href="">MA105</a>: Calculus
+<b>&nbsp;&middot;&nbsp;</b> <a href="">SI417</a>: Introduction to Probability Theory
 
 <h2>MOOC</h2>
 <a href="http://cs231n.stanford.edu/">CS231n</a>: Convolutional Neural Networks for Visual Recognition
