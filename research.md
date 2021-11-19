@@ -4,20 +4,20 @@ permalink: /research/
 title: Research
 ---
 
-Describe your research interests here.
+Despite the difficulties of accurately conveying emotions, nonverbal communication, like messaging, has become a dominant mode of communication. My recent research explores how emotional states can be defined, initiated, and tracked in the context of online messaging.
 
 <h2>Publications</h2>
 <ul>
 	<li>
-		<b>"Paper title #1"</b><br>
-		<i>List of authors</i><br>
-		Conference, Year<br>
+		<b>"How emoji and word embedding helps to unveil emotional transitions during online messaging"</b><br>
+		<i>Moeen Mostafavi, Michael D Porter </i><br>
+		  IEEE International Systems Conference (SysCon), 2021<br>
 		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>"Paper title #1"</b><br>
-		<i>List of authors</i><br>
-		Conference, Year<br>
+		<b>"Adapting Online Messaging Based on Emotional State"</b><br>
+		<i>Moeen Mostafavi</i><br>
+		 29th ACM Conference on User Modeling, Adaptation and Personalization, 2021<br>
 		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 </ul>
