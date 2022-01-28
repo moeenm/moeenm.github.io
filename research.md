@@ -18,7 +18,7 @@ Despite the difficulties of accurately conveying emotions, nonverbal communicati
 		<b>"Adapting Online Messaging Based on Emotional State"</b><br>
 		<i>Moeen Mostafavi</i><br>
 		 29th ACM Conference on User Modeling, Adaptation and Personalization, 2021<br>
-		<a href="https://dl.acm.org/doi/pdf/10.1145/3450613.3459661"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<a href="https://dl.acm.org/doi/pdf/10.1145/3450613.3459661"><div class="color-button">pdf</div></a><a href="https://dl.acm.org/doi/10.1145/3450613.3459661"><div class="color-button">cite</div></a>
 	</li><br>
 </ul>
 
