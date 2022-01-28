@@ -41,8 +41,8 @@ Despite the difficulties of accurately conveying emotions, nonverbal communicati
 <h2>Research Implementations</h2>
 <ul>
 	<li>
-		<b>Title #1</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<b>Mindful driving #1</b>: Brief description of this research implementation.<br>
+		<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9483746"><div class="color-button">paper</div></a><a href="https://www.fm.virginia.edu/about/news/mindful-driving.html"><div class="color-button">report</div></a>
 	</li><br>
 	<li>
 		<b>Title #2</b>: Brief description of this research implementation.<br>
