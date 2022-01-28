@@ -45,7 +45,7 @@ Despite the difficulties of accurately conveying emotions, nonverbal communicati
 		<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9483746"><div class="color-button">paper</div></a><a href="https://www.fm.virginia.edu/about/news/mindful-driving.html"><div class="color-button">report</div></a>
 	</li><br>
 	<li>
-		<b>Title #2</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<b>Preliminary feasibility of technology use in an internet-delivered intervention: Improving sleep in older adults with mild cognitive impairment #2</b> <br>
+		<a href="https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.038831"><div class="color-button">paper</div></a><a href="https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.038831"><div class="color-button">report</div></a>
 	</li><br>
 </ul>
