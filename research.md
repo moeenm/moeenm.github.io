@@ -41,7 +41,7 @@ Despite the difficulties of accurately conveying emotions, nonverbal communicati
 <h2>Research Implementations</h2>
 <ul>
 	<li>
-		<b>Mindful driving #1</b>: Brief description of this research implementation.<br>
+		<b>Mindful driving #1</b>: Analysis of "GPS data from a selection of Facilities Management Fleet vehicles as well as anonymous accident data from UVA Risk Management to help develop the training program".<br>
 		<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9483746"><div class="color-button">paper</div></a><a href="https://www.fm.virginia.edu/about/news/mindful-driving.html"><div class="color-button">report</div></a>
 	</li><br>
 	<li>
