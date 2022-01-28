@@ -12,7 +12,7 @@ Despite the difficulties of accurately conveying emotions, nonverbal communicati
 		<b>"How emoji and word embedding helps to unveil emotional transitions during online messaging"</b><br>
 		<i>Moeen Mostafavi, Michael D Porter </i><br>
 		  IEEE International Systems Conference (SysCon), 2021<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<a href="https://arxiv.org/ftp/arxiv/papers/2104/2104.11032.pdf"><div class="color-button">pdf</div></a><a href="https://ieeexplore.ieee.org/document/9447137"><div class="color-button">cite</div></a><a href="https://github.com/moeenm/emojis_unveil_emotions"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>"Adapting Online Messaging Based on Emotional State"</b><br>
