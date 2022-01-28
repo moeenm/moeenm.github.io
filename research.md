@@ -27,7 +27,9 @@ Despite the difficulties of accurately conveying emotions, nonverbal communicati
 	<li>
 		<b>Modeling expectation in macroeconomc system</b><br>
 		K.N.Toosi University of Technology, 3 years<br>
-		<i>Advisors: Dr. Alireza Fatehi & Dr. Hamed Shakouri G.</i><br>
+		<i>Supervisors: Dr. Alireza Fatehi & Dr. Hamed Shakouri G.</i><br>
+		<i>Advisor: Dr. Peter von zur Muehlen </i><br>
+		<i>Other committee members: Dr.Babak Nadjar Araabi & Dr. Hamid Khaloozadeh </i><br>
 		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 	<li>
