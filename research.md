@@ -25,15 +25,15 @@ Despite the difficulties of accurately conveying emotions, nonverbal communicati
 <h2>Research Projects</h2>
 <ul>
 	<li>
-		<b>Project title</b><br>
-		University, Duration<br>
-		<i>Other details such as advisor's name may go here</i><br>
+		<b>Modeling expectation in macroeconomc system</b><br>
+		K.N.Toosi University of Technology, 3 years<br>
+		<i>Advisors: Dr. Alireza Fatehi & Dr. Hamed Shakouri G.</i><br>
 		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>Project title</b><br>
-		University, Duration<br>
-		<i>Other details such as advisor's name may go here</i><br>
+		<b> Control Design Based on Passivity Indices with Learning </b><br>
+		University of Notre Dame, 1 year <br>
+		<i>Advisor: Dr Panos Antsaklis</i><br>
 		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 </ul>
