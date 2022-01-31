@@ -24,7 +24,7 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="">EE60551</a>: Mathematical Programming
 <b>&nbsp;&middot;&nbsp;</b> <a href="">EE60550</a>: Linear Systems
 <b>&nbsp;&middot;&nbsp;</b> <a href="">EE60563</a>: Probability and Random Processes
-<b>&nbsp;&middot;&nbsp;</b> <a href=""> ACMS40878: Statistical Computing with R
+<b>&nbsp;&middot;&nbsp;</b> <a href=""> ACMS40878</a>: Statistical Computing with R
 <b>&nbsp;&middot;&nbsp;</b> <a href="">EE60553</a>: Advanced Digital Communication
 <b>&nbsp;&middot;&nbsp;</b> <a href="">EE60573</a>: Detection and Estimation
 
