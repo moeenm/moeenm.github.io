@@ -17,7 +17,7 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="">CS6501</a>: Natural language processing
 
 <h2>At University of Notre Dame </h2>
-<h3>Electrical Engineering Department </h3>
+<h3>Electrical Engineering and Mathematics Department </h3>
 <a href="">Math60620</a>: Optimization
 <b>&nbsp;&middot;&nbsp;</b> <a href="">EE60655:</a>: Advanced Control Systems
 <b>&nbsp;&middot;&nbsp;</b> <a href="">ACMS60875:</a>: Statistical Methods in Data Mining and Prediction
