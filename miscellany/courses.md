@@ -50,7 +50,7 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="">SI417</a>: Introduction to Probability Theory
 
 <h2>MOOC</h2>
-<a href="https://www.coursera.org/account/accomplishments/verify/KB59E7CLQA7V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Certificate Link</a>: Natural Language Processing with Attention Models
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/KB59E7CLQA7V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Certificate Link</a>: Natural Language Processing with Attention Models
 
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/US5FKT246P9E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Certificate Link</a>:Natural Language Processing with Sequence Models
 
@@ -61,6 +61,7 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/K7VHX2VVNYU2">Certificate</a>:Introduction to Data Science in Python
 
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/certificate/YDEM4NK5FAA8">Certificate</a>:Natural Language Processing with Probabilistic Models
+
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/certificate/3685FP8EPSSE">Certificate</a>:Natural Language Processing with Classification and Vector Spaces
 
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/WKYW9CZJPRF8">Certificate</a>:Neural Networks and Deep Learning
