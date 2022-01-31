@@ -55,5 +55,8 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/certificate/XHXGGCFSP7S6">Certificate Link</a>:Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/ZA9VBLMPN3GT">Certificate</a>:Social Media Data Analytics
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/K7VHX2VVNYU2">Certificate</a>:Introduction to Data Science in Python
-
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/certificate/YDEM4NK5FAA8">Certificate</a>:Natural Language Processing with Probabilistic Models
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/certificate/3685FP8EPSSE">Certificate</a>:Natural Language Processing with Classification and Vector Spaces
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/WKYW9CZJPRF8">Certificate</a>:Neural Networks and Deep Learning
+<b>&nbsp;&middot;&nbsp;</b> <a href="">Certificate</a>: Model Thinking 
 
