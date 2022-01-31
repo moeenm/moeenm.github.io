@@ -50,7 +50,7 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="">SI417</a>: Introduction to Probability Theory
 
 <h2>MOOC</h2>
-<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/KB59E7CLQA7V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Certificate Link</a>: Natural Language Processing with Attention Models
+<b>&nbsp;&middot;&nbsp;</b>  Natural Language Processing with Attention Models <a href="https://www.coursera.org/account/accomplishments/verify/KB59E7CLQA7V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Certificate Link</a>
 
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/US5FKT246P9E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Certificate Link</a>:Natural Language Processing with Sequence Models
 
