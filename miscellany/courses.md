@@ -19,8 +19,14 @@ permalink: /miscellany/courses/
 <h2>At University of Notre Dame </h2>
 <h3>Electrical Engineering Department </h3>
 <a href="">MA214</a>: Convex optimization
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA106</a>: Advanced Control Systems
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Statistical Methods in Data Mining and Prediction
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE60655:</a>: Advanced Control Systems
+<b>&nbsp;&middot;&nbsp;</b> <a href="">ACMS60875:</a>: Statistical Methods in Data Mining and Prediction
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE60551</a>: Mathematical Programming
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE60550</a>: Linear Systems
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE60563</a>: Probability and Random Processes
+<b>&nbsp;&middot;&nbsp;</b> <a href=""> ACMS40878: Statistical Computing with R
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE60553</a>: Advanced Digital Communication
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE60573</a>: Detection and Estimation
 
 
 <h2>At K.N.Toosi University of Technology </h2>
