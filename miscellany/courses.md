@@ -50,7 +50,10 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="">SI417</a>: Introduction to Probability Theory
 
 <h2>MOOC</h2>
-<a href="https://www.coursera.org/account/accomplishments/verify/KB59E7CLQA7V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">CNN</a>: Natural Language Processing with Attention Models
-<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/US5FKT246P9E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">NLP</a>:Natural Language Processing with Sequence Models
+<a href="https://www.coursera.org/account/accomplishments/verify/KB59E7CLQA7V?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Certificate Link</a>: Natural Language Processing with Attention Models
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/US5FKT246P9E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Certificate Link</a>:Natural Language Processing with Sequence Models
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/certificate/XHXGGCFSP7S6">Certificate Link</a>:Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/ZA9VBLMPN3GT">Certificate</a>:Social Media Data Analytics
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/account/accomplishments/verify/K7VHX2VVNYU2">Certificate</a>:Introduction to Data Science in Python
 
 
