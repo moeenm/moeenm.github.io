@@ -31,10 +31,17 @@ permalink: /miscellany/courses/
 
 <h2>At K.N.Toosi University of Technology </h2>
 <h3>Electrical Engineering Department </h3> 
-<a href="">MA214</a>: System Identification
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA106</a>: Neural Network Controller
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Stochastic processes
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA105</a>: Calculus
+<a href="">EE</a>: System Identification
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE</a>: Stochastic processes
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE</a>: Calculus
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE</a>: Optimal Control  
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE</a>: Adaptive Control Systems  
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE</a>: Fuzzy Control 
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE</a>: Principles of Modern Control Theory 
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE</a>: Special Topics, Neural Controllers
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE</a>: Stochastic Processes  
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE</a>: Multivariable Control 
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EE</a>: Special Topics, Robust Control 
 
 <h2>At Shiraz University </h2>
 <h3>Electrical Engineering Department </h3>
