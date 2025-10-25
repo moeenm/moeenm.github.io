@@ -4,60 +4,40 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="You never forget cold weather after living in South Bend for two years :)" width=300 align="right" %}
+<img src="/assets/img/moeen.jpg" alt="Moeen Mostafavi" width="180"
+     style="border-radius:50%; float:right; margin:0 0 1rem 1rem;">
 
+Hi — I’m **Moeen Mostafavi**, a computational social scientist and data scientist focused on
+**NLP**, **machine learning**, and **decision support** at the intersection of
+**social systems**, **finance**, and **safety/health**.
 
-Hi — I’m **Moeen Mostafavi**, a computational social scientist and systems engineer based in Richmond, VA.  
-I build data-driven tools that connect modern AI with social and economic decision-making—spanning language and meaning in digital communication, safety and behavior analytics, and applied finance.
+I earned my Ph.D. in **Systems & Information Engineering** at the University of Virginia,
+where my dissertation, *Enhancing Emotion Understanding in Messaging Interactions*, integrated
+transformer models with **Affect Control Theory** to model affective dynamics in digital
+communication (see my paper in *Sociological Methodology*, 2024). I’ve also led and
+collaborated on interdisciplinary projects spanning **political analytics**, **telematics-based
+fleet safety**, **RFID + haptics** for collision prediction in contact sports, and
+technology-enabled sleep tracking in older adults.
 
-I earned my Ph.D. in **Systems & Information Engineering** at the University of Virginia, where my dissertation combined **transformer-based NLP** with **Affect Control Theory** to better measure emotion and meaning in messaging. Today, I apply similar methods to real-world problems in public safety and markets, and I enjoy collaborating across disciplines (sociology, economics, kinesiology, nursing, political science, data science, business, and engineering).
+I currently work at the **Virginia Retirement System (VRS)**, applying ML and large-scale
+data analysis to **mortgage-backed securities** and fixed-income research. Earlier work
+received support from **Jefferson Trust** (fleet safety) and **ARO W911NF1710509** (emotion
+modeling with contextual embeddings, coauthored), and I previously held grants/fellowships from
+**INSF** and others.
 
----
+I care deeply about inclusive, hands-on teaching. At UVA I supported courses in **Exploratory
+Text Analytics**, **Statistical Modeling**, and **Business Analysis**; student and peer
+recognition includes the **Robert T. Ferguson III Memorial Award**. I enjoy building short,
+“just-in-time” primers, annotated notebooks, and flexible mentoring structures that help
+students from diverse backgrounds succeed.
 
-### What I work on
-- **Language, emotion, and meaning.** Context-aware affect lexicons and modeling for conversational data (e.g., BERTNN + ACT).  
-- **Behavioral analytics for safety & sustainability.** Telematics-driven insights and interventions (e.g., Mindful Driving).  
-- **Sensing & human performance.** RFID and haptic feedback to anticipate collisions in contact sports.  
-- **Risk & decision support in finance.** Model pipelines that integrate borrower, loan, and market signals for fixed-income decisions.
-
----
-
-### A few highlights
-- **Contextual embeddings for social science** → Published in *Sociological Methodology* (2024).  
-  [Paper](https://journals.sagepub.com/doi/abs/10.1177/00811750241260729) · Related: [UMAP’21](https://dl.acm.org/doi/abs/10.1145/3450613.3459661) · [IEEE SysCon’21 (emoji/embeddings)](https://ieeexplore.ieee.org/abstract/document/9447137)
-
-- **Mindful Driving (telematics + ML)** → Recognized as NAFA *Best Special Project in North America* (2021).  
-  PI on a Jefferson Trust Grant; designed analytics + training to reduce risky/inefficient driving.
-
-- **Collision prediction in sports (RFID + haptics)** → Prototype to warn athletes of imminent impact.  
-  [Proceedings chapter](https://link.springer.com/chapter/10.1007/978-3-030-80091-8_47)
-
-- **Campaign finance vs. polling dynamics** → Joinpoint regression in the 2020 Democratic primaries.  
-  [IEEE SysCon’21](https://ieeexplore.ieee.org/abstract/document/9483746)
-
-Additional collaboration examples include technology feasibility for sleep interventions in older adults with MCI  
-([Alzheimer’s & Dementia abstract](https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.038831)).
-
----
-
-### Teaching & mentorship snapshot
-At UVA I supported **Exploratory Text Analytics**, **Statistical Modeling**, and **Business Analysis** with annotated notebooks, “just-in-time” primers, debugging videos, and flexible office hours—approaches recognized by the peer-nominated **Robert T. Ferguson III Memorial Award**. I enjoy meeting students where they are and helping them build confidence in coding, inference, and communication.
-
----
-
-### Funding & acknowledgments
-- **Jefferson Trust Grant** (Mindful Driving, PI).  
-- **INSF** support for early work on expectation modeling.  
-- Related co-authored work in sociological meaning and emotion **acknowledged support from ARO W911NF1710509**.
-
----
-
-### Now
-I’m applying my methods to mortgage-backed securities analytics as an **Investment Officer at the Virginia Retirement System**, while continuing interdisciplinary research and mentoring.
-
-- **Research:** [/research](/research)  
-- **Projects:** [/projects](/projects)  
-- **CV:** [/cv](/cv)  
-- **Google Scholar:** <https://scholar.google.com/citations?user=BtO9RngAAAAJ&hl=en>  
-- **LinkedIn:** <https://www.linkedin.com/in/moeenmostafavi>  
-- **Email:** <moeen@virginia.edu>
+**Links:**  
+• Google Scholar: <https://scholar.google.com/citations?user=BtO9RngAAAAJ&hl=en>  
+• LinkedIn: <https://www.linkedin.com/in/moeenmostafavi>  
+• Selected publications:  
+  – *Sociological Methodology* article: <https://journals.sagepub.com/doi/abs/10.1177/00811750241260729>  
+  – UMAP paper: <https://dl.acm.org/doi/abs/10.1145/3450613.3459661>  
+  – IEEE SysCon (emoji/embeddings): <https://ieeexplore.ieee.org/abstract/document/9447137>  
+  – IEEE SysCon (campaign metrics): <https://ieeexplore.ieee.org/abstract/document/9483746>  
+  – AHFE (RFID + haptics): <https://link.springer.com/chapter/10.1007/978-3-030-80091-8_47>  
+  – Alzheimer’s & Dementia (sleep tech): <https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.038831>
