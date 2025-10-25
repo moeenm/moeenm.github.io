@@ -54,7 +54,7 @@ I’m applying my methods to mortgage-backed securities analytics as an **Invest
 
 - **Research:** [/research](/research)  
 - **Projects:** [/projects](/projects)  
-- **CV:** [/cv](/cv)  
+- **CV:** [/cv](cv)  
 - **Google Scholar:** <https://scholar.google.com/citations?user=BtO9RngAAAAJ&hl=en>  
 - **LinkedIn:** <https://www.linkedin.com/in/moeenmostafavi>  
 - **Email:** <moeen@virginia.edu>
