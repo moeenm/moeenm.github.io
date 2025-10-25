@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+redirect_from:
+  - /about.html
 ---
 
 <img src="/assets/img/moeen.jpg" alt="Moeen Mostafavi" width="180"
