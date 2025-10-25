@@ -4,7 +4,7 @@ title: Moeen Mostafavi
 permalink: /
 ---
 
-Hi — I’m **Moeen Mostafavi**, a computational social scientist and systems engineer based in Richmond, VA.  
+Hi — I’m **Moeen Mostafavi**, a computational social scientist and systems engineer based in Richmond, VA. 
 I build data-driven tools that connect modern AI with social and economic decision-making—spanning language and meaning in digital communication, safety and behavior analytics, and applied finance.
 
 I earned my Ph.D. in **Systems & Information Engineering** at the University of Virginia, where my dissertation combined **transformer-based NLP** with **Affect Control Theory** to better measure emotion and meaning in messaging. Today, I apply similar methods to real-world problems in public safety and markets, and I enjoy collaborating across disciplines (sociology, economics, kinesiology, nursing, political science, data science, business, and engineering).
