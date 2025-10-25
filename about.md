@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/img/moeen.jpg" alt="Moeen Mostafavi" width="180"
-     style="border-radius:50%; float:right; margin:0 0 1rem 1rem;">
+#<img src="/assets/img/moeen.jpg" alt="Moeen Mostafavi" width="180"
+ #    style="border-radius:50%; float:right; margin:0 0 1rem 1rem;">
+{% include image.html url="/images/profile.jpg" caption="You never forget cold weather after living in South Bend for two years :)" width=300 align="right" %}
 
 Hi — I’m **Moeen Mostafavi**, a computational social scientist and data scientist focused on
 **NLP**, **machine learning**, and **decision support** at the intersection of
