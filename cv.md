@@ -47,7 +47,6 @@ NLP · Machine Learning · Computational Social Science · Decision Support (fin
 
 ## Grants & Recognition
 - **Jefferson Trust Grant** (PI) – Safe & Eco Driving / Mindful Driving Project  
-- **ARO W911NF1710509** (coauthored work acknowledged in publication)
 - **INSF Grant** – Expectation modeling in macroeconomic systems  
 - **NTU–Warwick Winter School Fellowship**
 - **Robert T. Ferguson III Memorial Award**, UVA (peer-nominated)  
