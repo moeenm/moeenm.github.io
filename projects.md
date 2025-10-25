@@ -35,6 +35,14 @@ For full publications, see my [Google Scholar](https://scholar.google.com/citati
 **Links:** [Conference chapter](https://link.springer.com/chapter/10.1007/978-3-030-80091-8_47)
 
 ---
+## Sensor-free Microclimate Monitoring Using Existing LoRaWAN Signal Characteristics
+**Authors:** F. Nikseresht, V. A. L. Sobral, M. Mostafavi, B. Campbell  
+**What it does:** Estimates local microclimate conditions without dedicated sensors by exploiting signal characteristics from existing LoRaWAN infrastructure.  
+**Methods:** Wireless signal feature extraction, environmental inference, low-power IoT  
+**Venue:** *International Workshop on Environmental Sensing Systems*  
+**Links:** [Paper](https://dl.acm.org/doi/abs/10.1145/3742460.3742977)
+
+---
 
 ## A Tale of Two Metrics: Finance vs. Polling in U.S. Primaries
 **Role:** Lead analyst  
