@@ -29,16 +29,24 @@ I build **computational methods that serve social and organizational decision-ma
 ### 1) Affective Meaning & NLP for Messaging
 - **Contextual Embeddings in Sociological Research: Expanding the Analysis of Sentiment and Social Dynamics.**  
   *Sociological Methodology*, 2024.  
-  <https://journals.sagepub.com/doi/abs/10.1177/00811750241260729>
+  <div class="btn-row">
+    <a href="https://journals.sagepub.com/doi/abs/10.1177/00811750241260729"><div class="color-button">cite</div></a>
+  </div>
 
 - **Adapting Online Messaging Based on Emotional State.**  
   *UMAP ’21*.  
-  <https://dl.acm.org/doi/abs/10.1145/3450613.3459661>
+  <div class="btn-row">
+    <a href="https://dl.acm.org/doi/pdf/10.1145/3450613.3459661"><div class="color-button">pdf</div></a>
+    <a href="https://dl.acm.org/doi/10.1145/3450613.3459661"><div class="color-button">cite</div></a>
+  </div>
 
 - **How emoji and word embedding helps to unveil emotional transitions during online messaging.**  
   *IEEE SysCon ’21*.  
-  <https://ieeexplore.ieee.org/abstract/document/9447137>  
-  Code: <https://github.com/moeenm/emojis_unveil_emotions>
+  <div class="btn-row">
+    <a href="https://arxiv.org/ftp/arxiv/papers/2104/2104.11032.pdf"><div class="color-button">pdf</div></a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9447137"><div class="color-button">cite</div></a>
+    <a href="https://github.com/moeenm/emojis_unveil_emotions"><div class="color-button">code</div></a>
+  </div>
 
 **What this line is about.**  
 I combine transformer representations with affect control theory to better measure **context-dependent emotion** in chat and short text. The goal is interpretable affective signals that are useful for support agents, conversational systems, and social inquiry.
@@ -48,15 +56,22 @@ I combine transformer representations with affect control theory to better measu
 ### 2) Safety, Sensors & Behavior Change
 - **Collision Prediction and Prevention in Contact Sports Using RFID Tags and Haptic Feedback.**  
   *AHFE Wearable & Assistive Technology*, 2021.  
-  <https://link.springer.com/chapter/10.1007/978-3-030-80091-8_47>
+  <div class="btn-row">
+    <a href="https://link.springer.com/chapter/10.1007/978-3-030-80091-8_47"><div class="color-button">cite</div></a>
+  </div>
 
 - **Safe and Sustainable Fleet Management with Data Analytics and Training.**  
   *Systems and Information Engineering Design Symposium (SIEDS)*, 2021.  
-  (Project page & UVA coverage) <https://www.fm.virginia.edu/about/news/mindful-driving.html>
+  <div class="btn-row">
+    <a href="https://www.fm.virginia.edu/about/news/mindful-driving.html"><div class="color-button">coverage</div></a>
+  </div>
 
 - **Preliminary feasibility of technology use in an internet-delivered intervention: Improving sleep in older adults with mild cognitive impairment.**  
   *Alzheimer’s & Dementia* (conference abstract), 2020.  
-  <https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.038831>
+  <div class="btn-row">
+    <a href="https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.038831"><div class="color-button">pdf</div></a>
+    <a href="https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.038831"><div class="color-button">cite</div></a>
+  </div>
 
 **What this line is about.**  
 From **RFID+haptics** for collision warnings to **telematics-guided eco-driving** and **sleep technology** feasibility, I study how analytics + design can **reduce risk** and support healthier behavior in the wild.
@@ -66,7 +81,9 @@ From **RFID+haptics** for collision warnings to **telematics-guided eco-driving*
 ### 3) Computational Policy Analytics
 - **A Tale of Two Metrics: Polling and Financial Contributions as a Measure of Performance.**  
   *IEEE SysCon ’21*.  
-  <https://ieeexplore.ieee.org/abstract/document/9483746>
+  <div class="btn-row">
+    <a href="https://ieeexplore.ieee.org/abstract/document/9483746"><div class="color-button">cite</div></a>
+  </div>
 
 **What this line is about.**  
 Using time-segmented models (e.g., joinpoint regression), I examine how **fundraising and polling** co-evolve in U.S. primary campaigns and what those dynamics imply for forecasting and resource allocation.
@@ -89,7 +106,7 @@ Early work on **expectation formation** and solution properties in macro-style s
 - **NLP**: contextual embeddings (BERT-family), lexicon expansion, sequence modeling for affect.  
 - **ML**: regression/classification, clustering, time series/segmentation, evaluation with subgroup reporting.  
 - **Sensing & Systems**: telematics analytics, RFID localization, dashboarding for training/feedback.  
-- **Open materials**: see code where linked above; additional items on request.
+- **Open materials**: see buttons above; additional items on request.
 
 ---
 
@@ -101,6 +118,8 @@ Early work on **expectation formation** and solution properties in macro-style s
 ---
 
 ## Pointers
-- **Google Scholar:** <https://scholar.google.com/citations?user=BtO9RngAAAAJ&hl=en>  
-- **Projects (narratives & demos):** [/projects/](/projects/)  
-- **About (bio & teaching):** [/about/](/about/)
+<div class="btn-row">
+  <a href="https://scholar.google.com/citations?user=BtO9RngAAAAJ&hl=en"><div class="color-button">Google Scholar</div></a>
+  <a href="/projects/"><div class="color-button">Projects</div></a>
+  <a href="/about/"><div class="color-button">About</div></a>
+</div>
