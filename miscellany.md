@@ -5,9 +5,9 @@ permalink: /miscellany/
 ---
 
 <ul>
-	<li><a href="courses">Courses undertaken</a> - Important courses that I have completed so far.</li>
-	<li><a href="extracurricular">Extracurriculars</a> - A glimpse into my non-academic life!</li>
-	<li><a href="travel">Travel</a> - Some moments from my trips to beautiful places around the world.</li>
+  <li><a href="courses">Courses undertaken</a> — Important courses that I have completed so far.</li>
+  <li><a href="extracurricular">Extracurriculars</a> — A glimpse into my non-academic life!</li>
 </ul>
 
-You can add other topics by editing `miscellany.md` and `_data/menu.yml`.
+**What I enjoy outside work:** spending time with my lovely family, raising animals, doing carpentry, and tackling handyman projects around the house. I’ll write more about these here soon.
+
