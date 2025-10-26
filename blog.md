@@ -6,7 +6,7 @@ permalink: /blog/
 
 **Coming soon.** I started writing blog posts more than twenty years ago, but it’s been a long while since I’ve kept a public blog. I’m planning to start posting again—short, practical notes on NLP, data mining, teaching, and interdisciplinary collaborations. Stay tuned.
 
-You’ll be able to browse posts by category <a href="{{ site.baseurl }}/categories/">here</a> once I’m rolling.
+# You’ll be able to browse posts by category <a href="{{ site.baseurl }}/categories/">here</a> once I’m rolling.
 
 <hr>
 
