@@ -23,10 +23,10 @@ I am currently interested in academic roles in **data science**, **computational
 **Links:**  
 • Google Scholar: <https://scholar.google.com/citations?user=BtO9RngAAAAJ&hl=en>  
 • LinkedIn: <https://www.linkedin.com/in/moeenmostafavi>  
-• CV: </cv/>
-• Research: </research/>
-• Projects: </projects/>
+
+
 • **Selected publications:**
+
   – *Sociological Methodology* article: <https://journals.sagepub.com/doi/abs/10.1177/00811750241260729>  
   – UMAP paper: <https://dl.acm.org/doi/abs/10.1145/3450613.3459661>  
   – IEEE SysCon (emoji/embeddings): <https://ieeexplore.ieee.org/abstract/document/9447137>  
