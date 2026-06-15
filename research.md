@@ -295,7 +295,7 @@ title: Research
     </div>
 
     <aside class="research-visual">
-        <img src="/research/affective-nlp.jpg" alt="Effect of interactions on affective meanings">
+        <img src="/images/affectiveNLP.jpg" alt="Effect of interactions on affective meanings">
         <p class="placeholder-text">Affect Control Theory (ACT) estimates affective meanings from contextual interactions.
       </p>
     </aside>
