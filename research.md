@@ -363,26 +363,8 @@ title: Research
     </div>
 
     <aside class="research-visual">
-      <!--
-        Replace this placeholder with a project image.
-
-        Recommended file path:
-        /assets/images/research/safety-sensors.png
-
-        Recommended image:
-        A two-panel visual:
-        left: RFID/haptic collision-warning schematic;
-        right: telematics dashboard or fuel/greenhouse-gas result chart.
-
-        To use a real image, replace this placeholder block with:
-        <img src="/assets/images/research/safety-sensors.png" alt="Sensor and telematics analytics for safety and behavior change">
-        <p class="placeholder-text">Sensor and telematics analytics can turn risk signals into actionable feedback.</p>
-      -->
-      <div class="placeholder-label">Image placeholder</div>
-      <div class="placeholder-title">Sensors → feedback → safer behavior</div>
-      <p class="placeholder-text">
-        Add a schematic of RFID/haptic collision alerts or a simple result chart for Mindful Driving fuel and
-        emissions savings.
+        <img src="/images/collision.jpg" alt="Sensor and telematics analytics for safety and behavior change">
+        <p class="placeholder-text">Tracking playes on the field.
       </p>
     </aside>
   </div>
