@@ -1,4 +1,3 @@
-```html
 ---
 layout: page
 permalink: /research/
@@ -565,4 +564,3 @@ title: Research
     <div class="color-button">About</div>
   </a>
 </div>
-```
