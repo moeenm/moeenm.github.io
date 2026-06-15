@@ -460,23 +460,8 @@ title: Research
     </div>
 
     <aside class="research-visual">
-      <!--
-        Replace this placeholder with a project image.
-
-        Recommended file path:
-        /assets/images/research/expectations-systems.png
-
-        Recommended image:
-        A systems diagram showing agents, expectation formation, feedback loops, and macro-level outcomes.
-
-        To use a real image, replace this placeholder block with:
-        <img src="/assets/images/research/expectations-systems.png" alt="Multi-agent expectation formation and macro-system feedback loops">
-        <p class="placeholder-text">Expectation assumptions shape stability and interpretability in macro-style systems.</p>
-      -->
-      <div class="placeholder-label">Image placeholder</div>
-      <div class="placeholder-title">Agents, expectations, and feedback loops</div>
-      <p class="placeholder-text">
-        Add a conceptual systems diagram showing agents, expectations, feedback, and aggregate outcomes.
+        <img src="/images/RE.png" alt="Multi-agent expectation formation and macro-system feedback loops">
+        <p class="placeholder-text">Behind the Rational Expectation equations.
       </p>
     </aside>
   </div>
