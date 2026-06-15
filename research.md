@@ -1,125 +1,568 @@
+```html
 ---
 layout: page
 permalink: /research/
 title: Research
 ---
 
-I build **computational methods that serve social and organizational decision-making**. My work sits at the intersection of **NLP**, **machine learning**, and **computational social science**, with applied threads in communication, safety/health, and public policy. This page complements my [Projects](/projects/) by grouping publications and artifacts under the research lines they advance.
+<style>
+  .research-intro {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-bottom: 1.75rem;
+  }
 
----
+  .research-note {
+    background: #f7f7f7;
+    border-left: 4px solid #555;
+    padding: 1rem 1.1rem;
+    margin: 1.5rem 0;
+    border-radius: 6px;
+    line-height: 1.6;
+  }
 
-## Themes & Questions
+  .theme-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0 2.25rem 0;
+  }
 
-- **Affective meaning in digital communication**  
-  How do people signal and interpret emotions in text-based settings, and how can models respect sociocultural context?
+  .theme-card {
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    padding: 1rem;
+    background: #fff;
+  }
 
-- **Data-driven safety & health**  
-  When do sensors + analytics (telematics, RFID, wearables) change behavior and reduce risk?
+  .theme-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.45rem;
+    font-size: 1.05rem;
+  }
 
-- **Computational policy analytics**  
-  What signals (e.g., finance vs. polls) forecast political momentum, and how stable are those relationships?
+  .theme-card p {
+    margin: 0;
+    line-height: 1.55;
+    font-size: 0.95rem;
+  }
 
-- **Expectations in socio-economic systems**  
-  How do modeling choices about expectations affect stability/identifiability in macro-style systems?
+  .research-line {
+    border: 1px solid #e6e6e6;
+    border-radius: 16px;
+    padding: 1.25rem;
+    margin: 2rem 0;
+    background: #fff;
+  }
 
----
+  .research-line h2 {
+    margin-top: 0;
+  }
 
-## Publications by Research Line
+  .research-line-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1.55fr) minmax(260px, 0.9fr);
+    gap: 1.25rem;
+    align-items: start;
+  }
 
-### 1) Affective Meaning & NLP for Messaging
-- **Contextual Embeddings in Sociological Research: Expanding the Analysis of Sentiment and Social Dynamics.**  
-  *Sociological Methodology*, 2024.  
-  <div class="btn-row">
-    <a href="https://journals.sagepub.com/doi/abs/10.1177/00811750241260729"><div class="color-button">cite</div></a>
-  </div>
+  @media (max-width: 800px) {
+    .research-line-layout {
+      grid-template-columns: 1fr;
+    }
+  }
 
-- **Adapting Online Messaging Based on Emotional State.**  
-  *UMAP ’21*.  
-  <div class="btn-row">
-    <a href="https://dl.acm.org/doi/pdf/10.1145/3450613.3459661"><div class="color-button">pdf</div></a>
-    <a href="https://dl.acm.org/doi/10.1145/3450613.3459661"><div class="color-button">cite</div></a>
-  </div>
+  .research-visual {
+    border: 1px dashed #b8b8b8;
+    border-radius: 14px;
+    min-height: 260px;
+    padding: 1rem;
+    background:
+      linear-gradient(135deg, rgba(0,0,0,0.025), rgba(0,0,0,0.055));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+  }
 
-- **How emoji and word embedding helps to unveil emotional transitions during online messaging.**  
-  *IEEE SysCon ’21*.  
-  <div class="btn-row">
-    <a href="https://arxiv.org/ftp/arxiv/papers/2104/2104.11032.pdf"><div class="color-button">pdf</div></a>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9447137"><div class="color-button">cite</div></a>
-    <a href="https://github.com/moeenm/emojis_unveil_emotions"><div class="color-button">code</div></a>
-  </div>
+  .research-visual img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    margin-bottom: 0.75rem;
+  }
 
-**What this line is about.**  
-I combine transformer representations with affect control theory to better measure **context-dependent emotion** in chat and short text. The goal is interpretable affective signals that are useful for support agents, conversational systems, and social inquiry.
+  .placeholder-label {
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.75rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+  }
 
----
+  .placeholder-title {
+    font-weight: 700;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
 
-### 2) Safety, Sensors & Behavior Change
-- **Collision Prediction and Prevention in Contact Sports Using RFID Tags and Haptic Feedback.**  
-  *AHFE Wearable & Assistive Technology*, 2021.  
-  <div class="btn-row">
-    <a href="https://link.springer.com/chapter/10.1007/978-3-030-80091-8_47"><div class="color-button">cite</div></a>
-  </div>
+  .placeholder-text {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #555;
+    margin: 0;
+  }
 
-- **Safe and Sustainable Fleet Management with Data Analytics and Training.**  
-  *Systems and Information Engineering Design Symposium (SIEDS)*, 2021.  
-  <div class="btn-row">
-    <a href="https://www.fm.virginia.edu/about/news/mindful-driving.html"><div class="color-button">coverage</div></a>
-  </div>
+  .result-callout {
+    border-radius: 12px;
+    padding: 0.9rem 1rem;
+    background: #f7f7f7;
+    margin: 1rem 0;
+  }
 
-- **Preliminary feasibility of technology use in an internet-delivered intervention: Improving sleep in older adults with mild cognitive impairment.**  
-  *Alzheimer’s & Dementia* (conference abstract), 2020.  
-  <div class="btn-row">
-    <a href="https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.038831"><div class="color-button">pdf</div></a>
-    <a href="https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.038831"><div class="color-button">cite</div></a>
-  </div>
+  .result-callout strong {
+    display: block;
+    margin-bottom: 0.3rem;
+  }
 
-**What this line is about.**  
-From **RFID+haptics** for collision warnings to **telematics-guided eco-driving** and **sleep technology** feasibility, I study how analytics + design can **reduce risk** and support healthier behavior in the wild.
+  .publication {
+    margin: 1.15rem 0;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eeeeee;
+  }
 
----
+  .publication:last-child {
+    border-bottom: none;
+  }
 
-### 3) Computational Policy Analytics
-- **A Tale of Two Metrics: Polling and Financial Contributions as a Measure of Performance.**  
-  *IEEE SysCon ’21*.  
-  <div class="btn-row">
-    <a href="https://ieeexplore.ieee.org/abstract/document/9483746"><div class="color-button">cite</div></a>
-  </div>
+  .publication-title {
+    font-weight: 700;
+  }
 
-**What this line is about.**  
-Using time-segmented models (e.g., joinpoint regression), I examine how **fundraising and polling** co-evolve in U.S. primary campaigns and what those dynamics imply for forecasting and resource allocation.
+  .publication-meta {
+    margin-top: 0.25rem;
+    color: #555;
+    font-style: italic;
+  }
 
----
+  .btn-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin-top: 0.55rem;
+  }
 
-### 4) Expectations & Macro-Style Systems
-- **Why the determinacy condition is a weak criterion in rational expectations models.**  
-  *International Conference on Business and Economics Research*, 2010.
+  .color-button {
+    display: inline-block;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    background: #eeeeee;
+    color: #222;
+    font-size: 0.85rem;
+    line-height: 1.2;
+  }
 
-- **A predictive multi-agent approach to model systems with linear rational expectations.**  
-  *First Iranian Economic Conference*, 2011.
+  .btn-row a {
+    text-decoration: none;
+  }
 
-**What this line is about.**  
-Early work on **expectation formation** and solution properties in macro-style systems; emphasis on stability, interpretability, and plausible micro-foundations.
+  .method-list {
+    columns: 2;
+    column-gap: 2rem;
+  }
 
----
+  @media (max-width: 700px) {
+    .method-list {
+      columns: 1;
+    }
+  }
+</style>
 
-## Methods & Tooling (recurring)
-- **NLP**: contextual embeddings (BERT-family), lexicon expansion, sequence modeling for affect.  
-- **ML**: regression/classification, clustering, time series/segmentation, evaluation with subgroup reporting.  
-- **Sensing & Systems**: telematics analytics, RFID localization, dashboarding for training/feedback.  
-- **Open materials**: see buttons above; additional items on request.
-
----
-
-## Impact & Collaboration (selected)
-- **Mindful Driving**: supported by a **Jefferson Trust** grant; recognized by NAFA’s *Best Special Project in North America* (team award); cross-unit work with operations/fleet partners.  
-- **Affective NLP**: coauthored work acknowledges **ARO W911NF1710509** support; published in a leading sociological methods venue, reflecting **true interdisciplinarity**.  
-- Collaborations across **sociology, economics, kinesiology, nursing, political science, data science, business, and engineering**.
-
----
-
-## Pointers
-<div class="btn-row">
-  <a href="https://scholar.google.com/citations?user=BtO9RngAAAAJ&hl=en"><div class="color-button">Google Scholar</div></a>
-  <a href="/projects/"><div class="color-button">Projects</div></a>
-  <a href="/about/"><div class="color-button">About</div></a>
+<div class="research-intro">
+  <p>
+    I build <strong>computational methods that serve social and organizational decision-making</strong>.
+    My work sits at the intersection of <strong>NLP</strong>, <strong>machine learning</strong>, and
+    <strong>computational social science</strong>, with applied threads in communication, safety/health,
+    and public policy. This page complements my <a href="/projects/">Projects</a> page by grouping
+    publications and artifacts under the research lines they advance.
+  </p>
 </div>
+
+<hr>
+
+<h2>Themes &amp; Questions</h2>
+
+<div class="theme-grid">
+  <div class="theme-card">
+    <h3>Affective meaning in digital communication</h3>
+    <p>
+      How do people signal and interpret emotions in text-based settings, and how can models respect
+      sociocultural context?
+    </p>
+  </div>
+
+  <div class="theme-card">
+    <h3>Data-driven safety &amp; health</h3>
+    <p>
+      When do sensors, analytics, and feedback systems change behavior and reduce risk?
+    </p>
+  </div>
+
+  <div class="theme-card">
+    <h3>Computational policy analytics</h3>
+    <p>
+      What signals forecast political momentum, and how stable are relationships between money,
+      polling, and campaign events?
+    </p>
+  </div>
+
+  <div class="theme-card">
+    <h3>Expectations in socio-economic systems</h3>
+    <p>
+      How do modeling choices about expectations affect stability, identifiability, and interpretation
+      in macro-style systems?
+    </p>
+  </div>
+</div>
+
+<hr>
+
+<h2>Publications by Research Line</h2>
+
+<section class="research-line" id="affective-nlp">
+  <div class="research-line-layout">
+    <div>
+      <h2>1) Affective Meaning &amp; NLP for Messaging</h2>
+
+      <p>
+        I combine transformer representations with affect control theory to better measure
+        <strong>context-dependent emotion</strong> in chat and short text. The goal is interpretable
+        affective signals that are useful for support agents, conversational systems, and social inquiry.
+      </p>
+
+      <div class="result-callout">
+        <strong>Project result / artifact to visualize</strong>
+        This line introduced <strong>BERTNN</strong>, a method for estimating affective meanings and expanding
+        affective lexicons from contextual language use. Related work maps <strong>Emoji2vec</strong>
+        representations into affective space to model emotional transitions in messaging.
+      </div>
+
+      <div class="publication">
+        <div class="publication-title">
+          Contextual Embeddings in Sociological Research: Expanding the Analysis of Sentiment and Social Dynamics.
+        </div>
+        <div class="publication-meta">Sociological Methodology, 2024.</div>
+        <div class="btn-row">
+          <a href="https://journals.sagepub.com/doi/abs/10.1177/00811750241260729">
+            <div class="color-button">cite</div>
+          </a>
+        </div>
+      </div>
+
+      <div class="publication">
+        <div class="publication-title">
+          Adapting Online Messaging Based on Emotional State.
+        </div>
+        <div class="publication-meta">UMAP ’21.</div>
+        <div class="btn-row">
+          <a href="https://dl.acm.org/doi/pdf/10.1145/3450613.3459661">
+            <div class="color-button">pdf</div>
+          </a>
+          <a href="https://dl.acm.org/doi/10.1145/3450613.3459661">
+            <div class="color-button">cite</div>
+          </a>
+        </div>
+      </div>
+
+      <div class="publication">
+        <div class="publication-title">
+          How emoji and word embedding helps to unveil emotional transitions during online messaging.
+        </div>
+        <div class="publication-meta">IEEE SysCon ’21.</div>
+        <div class="btn-row">
+          <a href="https://arxiv.org/ftp/arxiv/papers/2104/2104.11032.pdf">
+            <div class="color-button">pdf</div>
+          </a>
+          <a href="https://ieeexplore.ieee.org/abstract/document/9447137">
+            <div class="color-button">cite</div>
+          </a>
+          <a href="https://github.com/moeenm/emojis_unveil_emotions">
+            <div class="color-button">code</div>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <aside class="research-visual">
+      <!--
+        Replace this placeholder with a project image.
+
+        Recommended file path:
+        /assets/images/research/affective-nlp.png
+
+        Recommended image:
+        A clean pipeline figure showing:
+        text/chat input → contextual embedding/BERT → affective-space estimation → emotion trajectory.
+
+        To use a real image, replace this placeholder block with:
+        <img src="/assets/images/research/affective-nlp.png" alt="Pipeline for contextual affective meaning estimation from messaging data">
+        <p class="placeholder-text">BERTNN estimates affective meanings from contextual language use and supports affective lexicon expansion.</p>
+      -->
+      <div class="placeholder-label">Image placeholder</div>
+      <div class="placeholder-title">Affective NLP pipeline</div>
+      <p class="placeholder-text">
+        Add a diagram of chat text moving through BERT/contextual embeddings into affective-space estimates
+        or emotion trajectories.
+      </p>
+    </aside>
+  </div>
+</section>
+
+<section class="research-line" id="safety-health">
+  <div class="research-line-layout">
+    <div>
+      <h2>2) Safety, Sensors &amp; Behavior Change</h2>
+
+      <p>
+        From <strong>RFID+haptics</strong> for collision warnings to <strong>telematics-guided eco-driving</strong>
+        and <strong>sleep technology</strong> feasibility, I study how analytics and design can
+        <strong>reduce risk</strong> and support healthier behavior in the wild.
+      </p>
+
+      <div class="result-callout">
+        <strong>Project result / artifact to visualize</strong>
+        The RFID collision-warning study reported collision prediction with <strong>less than 14% false alarms</strong>.
+        In the Mindful Driving project, linked UVA coverage reported nearly <strong>6% fuel-economy improvement</strong>,
+        more than <strong>23 gallons of fuel saved per vehicle</strong>, and <strong>457 pounds of annual greenhouse-gas
+        reductions per vehicle</strong>.
+      </div>
+
+      <div class="publication">
+        <div class="publication-title">
+          Collision Prediction and Prevention in Contact Sports Using RFID Tags and Haptic Feedback.
+        </div>
+        <div class="publication-meta">AHFE Wearable &amp; Assistive Technology, 2021.</div>
+        <div class="btn-row">
+          <a href="https://link.springer.com/chapter/10.1007/978-3-030-80091-8_47">
+            <div class="color-button">cite</div>
+          </a>
+        </div>
+      </div>
+
+      <div class="publication">
+        <div class="publication-title">
+          Safe and Sustainable Fleet Management with Data Analytics and Training.
+        </div>
+        <div class="publication-meta">Systems and Information Engineering Design Symposium (SIEDS), 2021.</div>
+        <div class="btn-row">
+          <a href="https://www.fm.virginia.edu/about/news/mindful-driving.html">
+            <div class="color-button">coverage</div>
+          </a>
+        </div>
+      </div>
+
+      <div class="publication">
+        <div class="publication-title">
+          Preliminary feasibility of technology use in an internet-delivered intervention:
+          Improving sleep in older adults with mild cognitive impairment.
+        </div>
+        <div class="publication-meta">Alzheimer’s &amp; Dementia, conference abstract, 2020.</div>
+        <div class="btn-row">
+          <a href="https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.038831">
+            <div class="color-button">pdf</div>
+          </a>
+          <a href="https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.038831">
+            <div class="color-button">cite</div>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <aside class="research-visual">
+      <!--
+        Replace this placeholder with a project image.
+
+        Recommended file path:
+        /assets/images/research/safety-sensors.png
+
+        Recommended image:
+        A two-panel visual:
+        left: RFID/haptic collision-warning schematic;
+        right: telematics dashboard or fuel/greenhouse-gas result chart.
+
+        To use a real image, replace this placeholder block with:
+        <img src="/assets/images/research/safety-sensors.png" alt="Sensor and telematics analytics for safety and behavior change">
+        <p class="placeholder-text">Sensor and telematics analytics can turn risk signals into actionable feedback.</p>
+      -->
+      <div class="placeholder-label">Image placeholder</div>
+      <div class="placeholder-title">Sensors → feedback → safer behavior</div>
+      <p class="placeholder-text">
+        Add a schematic of RFID/haptic collision alerts or a simple result chart for Mindful Driving fuel and
+        emissions savings.
+      </p>
+    </aside>
+  </div>
+</section>
+
+<section class="research-line" id="policy-analytics">
+  <div class="research-line-layout">
+    <div>
+      <h2>3) Computational Policy Analytics</h2>
+
+      <p>
+        Using time-segmented models such as <strong>joinpoint regression</strong>, I examine how
+        <strong>fundraising and polling</strong> co-evolve in U.S. primary campaigns and what those dynamics
+        imply for forecasting, momentum, and resource allocation.
+      </p>
+
+      <div class="result-callout">
+        <strong>Project result / artifact to visualize</strong>
+        This work compares polling and financial contributions during the 2020 Democratic primaries and uses
+        change-point analysis to identify moments when campaign trajectories shift, including shifts associated
+        with debate performance and candidate support.
+      </div>
+
+      <div class="publication">
+        <div class="publication-title">
+          A Tale of Two Metrics: Polling and Financial Contributions as a Measure of Performance.
+        </div>
+        <div class="publication-meta">IEEE SysCon ’21.</div>
+        <div class="btn-row">
+          <a href="https://ieeexplore.ieee.org/abstract/document/9483746">
+            <div class="color-button">cite</div>
+          </a>
+          <a href="https://arxiv.org/abs/2103.12984">
+            <div class="color-button">preprint</div>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <aside class="research-visual">
+      <!--
+        Replace this placeholder with a project image.
+
+        Recommended file path:
+        /assets/images/research/policy-analytics.png
+
+        Recommended image:
+        A line chart showing polling and fundraising trajectories with vertical change-point markers.
+
+        To use a real image, replace this placeholder block with:
+        <img src="/assets/images/research/policy-analytics.png" alt="Joinpoint regression view of polling and campaign finance trajectories">
+        <p class="placeholder-text">Joinpoint regression highlights trajectory shifts in campaign performance signals.</p>
+      -->
+      <div class="placeholder-label">Image placeholder</div>
+      <div class="placeholder-title">Polling + fundraising change points</div>
+      <p class="placeholder-text">
+        Add a line chart with campaign trajectories and vertical markers for detected change points.
+      </p>
+    </aside>
+  </div>
+</section>
+
+<section class="research-line" id="expectations-systems">
+  <div class="research-line-layout">
+    <div>
+      <h2>4) Expectations &amp; Macro-Style Systems</h2>
+
+      <p>
+        My early work studied <strong>expectation formation</strong> and solution properties in macro-style systems,
+        with emphasis on stability, interpretability, and plausible micro-foundations.
+      </p>
+
+      <div class="result-callout">
+        <strong>Project result / artifact to visualize</strong>
+        This line connects systems modeling, rational expectations, and multi-agent simulation. A strong visual
+        here would help readers quickly see the relationship between assumptions about expectations and system-level
+        behavior.
+      </div>
+
+      <div class="publication">
+        <div class="publication-title">
+          Why the determinacy condition is a weak criterion in rational expectations models.
+        </div>
+        <div class="publication-meta">International Conference on Business and Economics Research, 2010.</div>
+      </div>
+
+      <div class="publication">
+        <div class="publication-title">
+          A predictive multi-agent approach to model systems with linear rational expectations.
+        </div>
+        <div class="publication-meta">First Iranian Economic Conference, 2011.</div>
+      </div>
+    </div>
+
+    <aside class="research-visual">
+      <!--
+        Replace this placeholder with a project image.
+
+        Recommended file path:
+        /assets/images/research/expectations-systems.png
+
+        Recommended image:
+        A systems diagram showing agents, expectation formation, feedback loops, and macro-level outcomes.
+
+        To use a real image, replace this placeholder block with:
+        <img src="/assets/images/research/expectations-systems.png" alt="Multi-agent expectation formation and macro-system feedback loops">
+        <p class="placeholder-text">Expectation assumptions shape stability and interpretability in macro-style systems.</p>
+      -->
+      <div class="placeholder-label">Image placeholder</div>
+      <div class="placeholder-title">Agents, expectations, and feedback loops</div>
+      <p class="placeholder-text">
+        Add a conceptual systems diagram showing agents, expectations, feedback, and aggregate outcomes.
+      </p>
+    </aside>
+  </div>
+</section>
+
+<hr>
+
+<h2>Methods &amp; Tooling</h2>
+
+<ul class="method-list">
+  <li><strong>NLP:</strong> contextual embeddings, BERT-family models, lexicon expansion, sequence modeling for affect.</li>
+  <li><strong>ML:</strong> regression/classification, clustering, time-series segmentation, subgroup-aware evaluation.</li>
+  <li><strong>Sensing &amp; Systems:</strong> telematics analytics, RFID localization, dashboarding, training feedback.</li>
+  <li><strong>Policy analytics:</strong> campaign-performance signals, joinpoint regression, comparative trend analysis.</li>
+  <li><strong>Open materials:</strong> selected code and preprints linked above; additional items available on request.</li>
+</ul>
+
+<hr>
+
+<h2>Impact &amp; Collaboration</h2>
+
+<ul>
+  <li>
+    <strong>Mindful Driving:</strong> supported by a Jefferson Trust grant; cross-unit work with operations and fleet
+    partners; linked coverage reports improved fuel economy and greenhouse-gas reductions from the deployed software
+    comparison.
+  </li>
+  <li>
+    <strong>Affective NLP:</strong> published in a sociological methods venue, reflecting interdisciplinary work across
+    NLP, social psychology, and computational social science.
+  </li>
+  <li>
+    Collaborations across <strong>sociology, economics, kinesiology, nursing, political science, data science, business,
+    and engineering</strong>.
+  </li>
+</ul>
+
+<hr>
+
+<h2>Pointers</h2>
+
+<div class="btn-row">
+  <a href="https://scholar.google.com/citations?user=BtO9RngAAAAJ&hl=en">
+    <div class="color-button">Google Scholar</div>
+  </a>
+  <a href="/projects/">
+    <div class="color-button">Projects</div>
+  </a>
+  <a href="/about/">
+    <div class="color-button">About</div>
+  </a>
+</div>
+```
