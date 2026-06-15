@@ -233,7 +233,7 @@ title: Research
 <section class="research-line" id="affective-nlp">
   <div class="research-line-layout">
     <div>
-      <h2>1) Affective Meaning &amp; NLP for Messaging</h2>
+      <h2> Affective Meaning &amp; NLP for Messaging</h2>
 
       <p>
         I combine transformer representations with affect control theory to better measure
@@ -295,25 +295,8 @@ title: Research
     </div>
 
     <aside class="research-visual">
-      <!--
-        Replace this placeholder with a project image.
-
-        Recommended file path:
-        /assets/images/research/affective-nlp.png
-
-        Recommended image:
-        A clean pipeline figure showing:
-        text/chat input → contextual embedding/BERT → affective-space estimation → emotion trajectory.
-
-        To use a real image, replace this placeholder block with:
-        <img src="/assets/images/research/affective-nlp.png" alt="Pipeline for contextual affective meaning estimation from messaging data">
-        <p class="placeholder-text">BERTNN estimates affective meanings from contextual language use and supports affective lexicon expansion.</p>
-      -->
-      <div class="placeholder-label">Image placeholder</div>
-      <div class="placeholder-title">Affective NLP pipeline</div>
-      <p class="placeholder-text">
-        Add a diagram of chat text moving through BERT/contextual embeddings into affective-space estimates
-        or emotion trajectories.
+        <img src="/assets/images/research/affective-nlp.jpg" alt="Effect of interactions on affective meanings">
+        <p class="placeholder-text">Affect Control Theory (ACT) estimates affective meanings from contextual interactions.
       </p>
     </aside>
   </div>
@@ -322,7 +305,7 @@ title: Research
 <section class="research-line" id="safety-health">
   <div class="research-line-layout">
     <div>
-      <h2>2) Safety, Sensors &amp; Behavior Change</h2>
+      <h2> Safety, Sensors &amp; Behavior Change</h2>
 
       <p>
         From <strong>RFID+haptics</strong> for collision warnings to <strong>telematics-guided eco-driving</strong>
@@ -408,7 +391,7 @@ title: Research
 <section class="research-line" id="policy-analytics">
   <div class="research-line-layout">
     <div>
-      <h2>3) Computational Policy Analytics</h2>
+      <h2> Computational Policy Analytics</h2>
 
       <p>
         Using time-segmented models such as <strong>joinpoint regression</strong>, I examine how
@@ -465,7 +448,7 @@ title: Research
 <section class="research-line" id="expectations-systems">
   <div class="research-line-layout">
     <div>
-      <h2>4) Expectations &amp; Macro-Style Systems</h2>
+      <h2> Expectations &amp; Macro-Style Systems</h2>
 
       <p>
         My early work studied <strong>expectation formation</strong> and solution properties in macro-style systems,
