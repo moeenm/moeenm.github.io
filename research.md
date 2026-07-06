@@ -313,7 +313,7 @@ The main artifact from this line is a visual pipeline showing how short messages
       </p>
 
       <div class="result-callout">
-        <strong>Project result / artifact to visualize</strong>
+         
         The RFID collision-warning study reported collision prediction with <strong>less than 14% false alarms</strong>.
         In the Mindful Driving project, linked UVA coverage reported nearly <strong>6% fuel-economy improvement</strong>,
         more than <strong>23 gallons of fuel saved per vehicle</strong>, and <strong>457 pounds of annual greenhouse-gas
@@ -381,7 +381,7 @@ The main artifact from this line is a visual pipeline showing how short messages
       </p>
 
       <div class="result-callout">
-        <strong>Project result / artifact to visualize</strong>
+         
         This work compares polling and financial contributions during the 2020 Democratic primaries and uses
         change-point analysis to identify moments when campaign trajectories shift, including shifts associated
         with debate performance and candidate support.
@@ -423,7 +423,7 @@ The main artifact from this line is a visual pipeline showing how short messages
       </p>
 
       <div class="result-callout">
-        <strong>Project result / artifact to visualize</strong>
+         
         This line connects systems modeling, rational expectations, and multi-agent simulation. A strong visual
         here would help readers quickly see the relationship between assumptions about expectations and system-level
         behavior.
