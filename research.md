@@ -424,9 +424,25 @@ The main artifact from this line is a visual pipeline showing how short messages
 
       <div class="result-callout">
          
-        This line connects systems modeling, rational expectations, and multi-agent simulation. A strong visual
-        here would help readers quickly see the relationship between assumptions about expectations and system-level
-        behavior.
+         <p>
+  This research line studies how assumptions about <strong>expectation formation</strong>
+  affect the stability and interpretation of macro-style dynamic systems. In the rational
+  expectations literature, the determinacy condition is often used as a criterion for
+  identifying unique stable solutions. My early work revisits this assumption and argues
+  that determinacy alone can be a weak or insufficient criterion, especially when the
+  mathematical structure of the model does not fully capture how agents form and revise
+  expectations.
+</p>
+
+<p>
+  The related multi-agent work proposes an alternative way to model systems with linear
+  rational expectations by representing decision makers as predictive agents rather than
+  relying only on centralized equilibrium conditions. In this view, agents estimate future
+  states, optimize their own actions, and interact through system-level feedback. A useful
+  visual artifact for this line would show the contrast between a traditional rational
+  expectations equation and the behind-the-scenes agent-based process that generates
+  expectations, decisions, and stable system behavior.
+</p>
       </div>
 
       <div class="publication">
