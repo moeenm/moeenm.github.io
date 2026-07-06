@@ -405,23 +405,9 @@ title: Research
     </div>
 
     <aside class="research-visual">
-      <!--
-        Replace this placeholder with a project image.
-
-        Recommended file path:
-        /assets/images/research/policy-analytics.png
-
-        Recommended image:
-        A line chart showing polling and fundraising trajectories with vertical change-point markers.
-
-        To use a real image, replace this placeholder block with:
-        <img src="/assets/images/research/policy-analytics.png" alt="Joinpoint regression view of polling and campaign finance trajectories">
-        <p class="placeholder-text">Joinpoint regression highlights trajectory shifts in campaign performance signals.</p>
-      -->
-      <div class="placeholder-label">Image placeholder</div>
-      <div class="placeholder-title">Polling + fundraising change points</div>
+        <img src="/images/two_metrics_joinpoint.png" alt="M">
       <p class="placeholder-text">
-        Add a line chart with campaign trajectories and vertical markers for detected change points.
+        Polling + fundraising change points.
       </p>
     </aside>
   </div>
