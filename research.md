@@ -243,7 +243,7 @@ title: Research
 
       <div class="result-callout">
  This research line develops computational methods for measuring emotion and social meaning in online communication. Across three connected papers, I use Affect Control Theory (ACT) to model how emotional states shift during text-based interactions, where body language and vocal cues are absent. The work extends affective dictionaries by mapping word and emoji embeddings into ACT’s evaluation–potency–activity space, enabling models to represent not only whether language is positive or negative, but also whether it signals power, agency, intensity, or social alignment.
-
+</p>
 The main artifact from this line is a visual pipeline showing how short messages, emojis, and social-event contexts are transformed into interpretable affective representations. Early work modeled emotional transitions in chatbot-style messaging and showed how emoji representation can enrich affective lexicons for online conversations. The later BERTNN framework advances this idea by using contextual transformer embeddings to estimate affective meanings for new concepts, supporting scalable, culturally adaptive analysis of sentiment and social dynamics.
       </div>
 
