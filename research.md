@@ -242,10 +242,9 @@ title: Research
       </p>
 
       <div class="result-callout">
-        <strong>Project result / artifact to visualize</strong>
-        This line introduced <strong>BERTNN</strong>, a method for estimating affective meanings and expanding
-        affective lexicons from contextual language use. Related work maps <strong>Emoji2vec</strong>
-        representations into affective space to model emotional transitions in messaging.
+ This research line develops computational methods for measuring emotion and social meaning in online communication. Across three connected papers, I use Affect Control Theory (ACT) to model how emotional states shift during text-based interactions, where body language and vocal cues are absent. The work extends affective dictionaries by mapping word and emoji embeddings into ACT’s evaluation–potency–activity space, enabling models to represent not only whether language is positive or negative, but also whether it signals power, agency, intensity, or social alignment.
+
+The main artifact from this line is a visual pipeline showing how short messages, emojis, and social-event contexts are transformed into interpretable affective representations. Early work modeled emotional transitions in chatbot-style messaging and showed how Emoji2vec can enrich affective lexicons for online conversations. The later BERTNN framework advances this idea by using contextual transformer embeddings to estimate affective meanings for new concepts, supporting scalable, culturally adaptive analysis of sentiment and social dynamics.
       </div>
 
       <div class="publication">
